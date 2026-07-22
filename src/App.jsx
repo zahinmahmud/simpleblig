@@ -1,11 +1,14 @@
 import React from "react";
-
+import Section from "./componets/Section/Section";
+import Header from "./componets/Header/Header";
+import Footer from "./componets/Footer/Footer";
 const App = () => {
   return (
-    <div className="bg-green-600 p-4 "> 
-      <h2 className="text-4xl text-blue-500 font-bold flex items-center justify-center">
-        This is all about new  <span className="text-red-300 ml-1.5 italic"> Project</span>  
-      </h2>
+    <div >
+      <Header/> 
+      <Section/>
+      <Footer/>
+      
     </div>
   );
 };
