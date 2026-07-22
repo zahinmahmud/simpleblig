@@ -1,0 +1,177 @@
+[
+    {
+        "blog_id": 101,
+        "category_id": 1,
+        "title": "How Generative AI Tools Are Transforming Modern Workflows",
+        "slug": "how-generative-ai-tools-are-transforming-modern-workflows",
+        "target_audience": "Professionals, Developers, Tech Enthusiasts"
+    },
+    {
+        "blog_id": 102,
+        "category_id": 1,
+        "title": "The Ultimate Guide to Protecting Your Personal Data Online in 2026",
+        "slug": "ultimate-guide-to-protecting-personal-data-online-2026",
+        "target_audience": "General Internet Users"
+    },
+    {
+        "blog_id": 103,
+        "category_id": 1,
+        "title": "Top 10 Smart Home Gadgets Worth Buying This Year",
+        "slug": "top-10-smart-home-gadgets-worth-buying",
+        "target_audience": "Homeowners, Tech Enthusiasts"
+    },
+    {
+        "blog_id": 104,
+        "category_id": 1,
+        "title": "Cloud Computing vs. Edge Computing: Key Differences Explained",
+        "slug": "cloud-computing-vs-edge-computing-key-differences",
+        "target_audience": "Software Engineers, IT Managers"
+    },
+    {
+        "blog_id": 105,
+        "category_id": 1,
+        "title": "How to Build Your First Web Application Without Writing Code",
+        "slug": "build-your-first-web-app-no-code",
+        "target_audience": "Entrepreneurs, Beginners"
+    },
+    {
+        "blog_id": 201,
+        "category_id": 2,
+        "title": "5 Simple Budgeting Methods to Take Control of Your Finances",
+        "slug": "5-simple-budgeting-methods-to-control-finances",
+        "target_audience": "Beginners in Money Management"
+    },
+    {
+        "blog_id": 202,
+        "category_id": 2,
+        "title": "Beginner's Guide to Index Fund Investing: How to Build Passive Wealth",
+        "slug": "beginners-guide-to-index-fund-investing",
+        "target_audience": "New Investors, Long-term Savers"
+    },
+    {
+        "blog_id": 203,
+        "category_id": 2,
+        "title": "7 Practical Strategies to Pay Off High-Interest Debt Fast",
+        "slug": "7-practical-strategies-to-pay-off-high-interest-debt-fast",
+        "target_audience": "Individuals Seeking Debt Management"
+    },
+    {
+        "blog_id": 204,
+        "category_id": 2,
+        "title": "How to Build an Emergency Fund (And How Much You Really Need)",
+        "slug": "how-to-build-an-emergency-fund",
+        "target_audience": "General Public"
+    },
+    {
+        "blog_id": 205,
+        "category_id": 2,
+        "title": "10 High-Yield Side Hustles You Can Start From Home",
+        "slug": "10-high-yield-side-hustles-from-home",
+        "target_audience": "Freelancers, Side-Hustlers"
+    },
+    {
+        "blog_id": 301,
+        "category_id": 3,
+        "title": "The Science of Muscle Building: How to Structure an Effective Workout",
+        "slug": "science-of-muscle-building-effective-workout-structure",
+        "target_audience": "Gym Goers, Fitness Enthusiasts"
+    },
+    {
+        "blog_id": 302,
+        "category_id": 3,
+        "title": "10 Simple Ways to Improve Sleep Quality and Morning Energy",
+        "slug": "10-simple-ways-to-improve-sleep-quality",
+        "target_audience": "Everyone"
+    },
+    {
+        "blog_id": 303,
+        "category_id": 3,
+        "title": "Plant-Based vs. High-Protein Diets: Which Is Right for Your Goals?",
+        "slug": "plant-based-vs-high-protein-diets-comparison",
+        "target_audience": "Health-conscious Individuals"
+    },
+    {
+        "blog_id": 304,
+        "category_id": 3,
+        "title": "How to Overcome Gym Anxiety and Build a Consistent Exercise Routine",
+        "slug": "overcome-gym-anxiety-build-consistent-routine",
+        "target_audience": "Beginners"
+    },
+    {
+        "blog_id": 305,
+        "category_id": 3,
+        "title": "Mindfulness Techniques to Reduce Everyday Stress and Burnout",
+        "slug": "mindfulness-techniques-to-reduce-stress-and-burnout",
+        "target_audience": "Working Professionals"
+    },
+    {
+        "blog_id": 401,
+        "category_id": 4,
+        "title": "How to Travel the World on a Budget: Essential Flight and Hotel Hacks",
+        "slug": "how-to-travel-the-world-on-a-budget",
+        "target_audience": "Budget Travelers, Backpackers"
+    },
+    {
+        "blog_id": 402,
+        "category_id": 4,
+        "title": "Top 10 Underrated Travel Destinations to Visit Next Year",
+        "slug": "top-10-underrated-travel-destinations",
+        "target_audience": "Vacation Seekers, Travelers"
+    },
+    {
+        "blog_id": 403,
+        "category_id": 4,
+        "title": "The Ultimate Solo Travel Packing List for Long-Term Trips",
+        "slug": "ultimate-solo-travel-packing-list",
+        "target_audience": "Solo Travelers"
+    },
+    {
+        "blog_id": 404,
+        "category_id": 4,
+        "title": "Sustainable Tourism: How to Minimize Your Environmental Impact While Traveling",
+        "slug": "sustainable-tourism-minimize-environmental-impact",
+        "target_audience": "Eco-conscious Travelers"
+    },
+    {
+        "blog_id": 405,
+        "category_id": 4,
+        "title": "A 7-Day Road Trip Itinerary for Exploring National Parks",
+        "slug": "7-day-road-trip-itinerary-national-parks",
+        "target_audience": "Road Trippers, Outdoor Enthusiasts"
+    },
+    {
+        "blog_id": 501,
+        "category_id": 5,
+        "title": "SEO Essentials: How to Rank Your Content on Google's First Page",
+        "slug": "seo-essentials-rank-content-on-googles-first-page",
+        "target_audience": "Content Creators, Marketers"
+    },
+    {
+        "blog_id": 502,
+        "category_id": 5,
+        "title": "How to Create a Content Strategy That Converts Readers into Buyers",
+        "slug": "create-a-content-strategy-that-converts",
+        "target_audience": "Business Owners, Content Strategists"
+    },
+    {
+        "blog_id": 503,
+        "category_id": 5,
+        "title": "The Beginner's Blueprint for Building an Engaged Email List",
+        "slug": "beginners-blueprint-building-engaged-email-list",
+        "target_audience": "Email Marketers, Startup Founders"
+    },
+    {
+        "blog_id": 504,
+        "category_id": 5,
+        "title": "Social Media Algorithms Decoded: How to Maximize Organic Reach",
+        "slug": "social-media-algorithms-decoded-maximize-reach",
+        "target_audience": "Social Media Managers"
+    },
+    {
+        "blog_id": 505,
+        "category_id": 5,
+        "title": "5 Common Copywriting Mistakes That Waste Your Ad Budget",
+        "slug": "5-common-copywriting-mistakes-that-waste-ad-budget",
+        "target_audience": "Copywriters, Advertisers"
+    }
+]

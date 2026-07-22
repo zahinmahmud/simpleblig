@@ -49,14 +49,16 @@ const [open, setOpen] = useState(false);
       </div> */}
     <nav className="bg-orange-500 text-white">
       <div className="container mx-auto flex items-center justify-between px-4 py-3">
-        <h1 className="text-2xl font-bold">Logo</h1>
+          <div>     
+          <img src={logo} alt="" className="w-16" />
+        </div>
 
         {/* Desktop Menu */}
-        <ul className="hidden md:flex items-center gap-6">
-          <li><a href="#">Home</a></li>
-          <li><a href="#">About</a></li>
-          <li><a href="#">Blog</a></li>
-          <li><a href="#">Contact</a></li>
+        <ul className="hidden md:flex items-center gap-6 text-2xl font-extrabold">
+          <li className="hover:text-blue-500"><a href="#">Home</a></li>
+          <li className="hover:text-blue-500"><a href="#">About</a></li>
+          <li className="hover:text-blue-500"><a href="#">Blog</a></li>
+          <li className="hover:text-blue-500"><a href="#">Contact</a></li>
         </ul>
 
         {/* Mobile Menu Button */}
@@ -76,22 +78,22 @@ const [open, setOpen] = useState(false);
       >
         <ul className="bg-orange-600">
           <li className="border-b border-orange-400">
-            <a href="#" className="block px-4 py-3 hover:bg-orange-700">
+            <a href="#" className="block px-4 py-3 hover:bg-orange-700 hover:text-blue-500 font-extrabold">
               Home
             </a>
           </li>
           <li className="border-b border-orange-400">
-            <a href="#" className="block px-4 py-3 hover:bg-orange-700">
+            <a href="#" className="block px-4 py-3 hover:bg-orange-700  hover:text-blue-500 font-extrabold">
               About
             </a>
           </li>
           <li className="border-b border-orange-400">
-            <a href="#" className="block px-4 py-3 hover:bg-orange-700">
+            <a href="#" className="block px-4 py-3 hover:bg-orange-700  hover:text-blue-500 font-extrabold">
               Blog
             </a>
           </li>
           <li>
-            <a href="#" className="block px-4 py-3 hover:bg-orange-700">
+            <a href="#" className="block px-4 py-3 hover:bg-orange-700  hover:text-blue-500 font-extrabold">
               Contact
             </a>
           </li>
