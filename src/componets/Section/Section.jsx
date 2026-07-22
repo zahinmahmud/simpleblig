@@ -25,10 +25,10 @@ const Section = () => {
   return (
     <div className=" grid grid-cols-12 gap-4">
       <div className="col-span-9">
-        <Main />
+        <Main blogtopic={blogtopic} />
       </div>
       <div className="col-span-3">
-        <Side />
+        <Side blogcategories={blogcategories} />
       </div>
     </div>
   );

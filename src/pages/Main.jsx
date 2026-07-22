@@ -1,17 +1,18 @@
 import React from 'react';
 
-const main = () => {
+const main = ({blogtopic}) => {
     return (
         <div>
           <div>
             <img src="#" alt="image of the blog" />
           </div>
           <div>
-            <h2>JavaScript</h2>
-            <p>Short Description</p>
-            <p>Description</p>
-            <p>10 min read</p>
-            <p>3244 views</p>
+            {blogtopic.map((blog,index)=>(
+             <div key={index}>
+              <h2>{blog.title}</h2> 
+              </div>
+            ))}         
+      
 
           </div>
         </div>
